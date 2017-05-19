@@ -18,7 +18,8 @@
 --
 -- Table structure for table `student`
 --
-
+CREATE DATABASE IF NOT EXISTS proj3;
+USE proj3;
 DROP TABLE IF EXISTS `student`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
